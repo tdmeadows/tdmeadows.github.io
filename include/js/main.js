@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'include/img/slider-images/image01.jpg', title : '<div class="slide-content"><h1>Timothy Meadows</h1><h2>UI/UX Designer</h2><h4>I fix usability problems with design &amp coffee</h4></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content"><h1>Timothy Meadows</h1><h2>UI/UX Designer</h2></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><h1>Timothy Meadows</h1><h2>UI/UX Designer</h2></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content"><h1>Timothy Meadows</h1><h2>UI/UX Designer</h2></div>', thumb : '', url : ''}  
+											{image : 'include/img/slider-images/image01.jpg', title : '<div class="slide-content"><img src="include/img/TDMeadows Logo2016_White-01-04.png"><h2>Timothy Meadows</h2><h3><em>UI/UX Designer</em></h3></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content"><img src="include/img/TDMeadows Logo2016_White-01-04.png"><h2>Timothy Meadows</h2><h3><em>UI/UX Designer</em></h3></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"><img src="include/img/TDMeadows Logo2016_White-01-04.png"><h2>Timothy Meadows</h2><h3><em>UI/UX Designer</em></h3></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content"><img src="include/img/TDMeadows Logo2016_White-01-04.png"><h2>Timothy Meadows</h2><h3><em>UI/UX Designer</em></h3></div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
