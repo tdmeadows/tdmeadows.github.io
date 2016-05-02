@@ -223,7 +223,7 @@ BRUSHED.tweetFeed = function(){
 	
     $("#ticker").tweet({
           modpath: 'include/js/twitter/',
-          username: "Bluxart", // Change this with YOUR ID
+          username: "tdmeadowsdesign", // Change this with YOUR ID
           page: 1,
           avatar_size: 0,
           count: 10,
