@@ -65,10 +65,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/BarefootPlatypus/Desktop/New Website"
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/css",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/js",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/php"
 	],
 	"file_history":
 	[
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/camphope.html",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/css/main.css",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/index.html",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/js/main.js",
+		"/Users/BarefootPlatypus/Desktop/Projects/_Websites/Portfolios/TDMeadows.com/New Website from Template/New Website Code/include/php/contact.php",
 		"/private/etc/hosts",
 		"/Users/BarefootPlatypus/Library/Application Support/com.bohemiancoding.sketch3/.license",
 		"/Users/BarefootPlatypus/Desktop/Projects/*Web Development/Front-End/Ember_Play/library-app/config/environment.js",
@@ -83,7 +92,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
